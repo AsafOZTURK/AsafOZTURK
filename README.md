@@ -1,7 +1,7 @@
 <h1 align="center">Hi there I'am Mehmet Asaf ÖZTÜRK👋 </h1>
 <h4>🔭 I'am still student</h4>
 <h4>🌱 I’m currently learning php and laravel...</h4>
-<h4>🌱 I use ıt https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white</h4>
+<h4>🌱 I use ıt <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></h4>
 
 <div>
   <h2>Skills</h2>
