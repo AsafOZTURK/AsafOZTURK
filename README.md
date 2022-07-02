@@ -1,6 +1,6 @@
-### Hi there 👋
-I'am still student &nbsp
-🌱 I’m currently learning php and laravel...
+<h1 align="center">Hi there I'am Mehmet Asaf ÖZTÜRK👋 </h1>
+<h4>I'am still student</h4>
+<h4>🌱 I’m currently learning php and laravel...</h4>
 
 <div>
   <h2>Skills</h2>
