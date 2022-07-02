@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'am still student
-### 🌱 I’m currently learning php and laravel...
+I'am still student
+🌱 I’m currently learning php and laravel...
 
 <div>
   <h2>Deneme</h2>
